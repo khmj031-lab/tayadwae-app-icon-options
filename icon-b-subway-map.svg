@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">타야돼 앱 아이콘 B — Subway Map</title>
+  <desc id="desc">한글 타의 획을 지하철 노선과 역 점으로 만들고 오른쪽 획을 반원 시계로 만든 아이콘</desc>
+  <rect width="1024" height="1024" rx="228" fill="#F7F0E8"/>
+  <g id="Letter Structure" fill="none" stroke="#123F5C" stroke-width="64" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M236 318H574"/>
+    <path d="M270 318V750"/>
+    <path d="M270 515H516"/>
+    <path d="M270 750H570"/>
+    <path d="M660 220V806"/>
+    <path d="M660 515H776"/>
+  </g>
+  <g id="Subway Detail">
+    <path d="M165 318C176 272 211 245 263 245H340V318H165Z" fill="#123F5C"/>
+    <path d="M196 294C207 272 228 261 258 261H282V294Z" fill="#F7F0E8"/>
+    <rect x="294" y="261" width="30" height="33" rx="7" fill="#F7F0E8"/>
+  </g>
+  <g id="Clock Detail">
+    <path d="M660 345A170 170 0 0 1 660 685" fill="none" stroke="#123F5C" stroke-width="52" stroke-linecap="round"/>
+    <circle cx="660" cy="515" r="17" fill="#E53935"/>
+  </g>
+  <g id="Accent">
+    <circle cx="516" cy="515" r="18" fill="#FFB13B"/>
+    <circle cx="430" cy="750" r="18" fill="#FFB13B"/>
+    <circle cx="570" cy="750" r="18" fill="#FFB13B"/>
+    <path d="M660 515V402" fill="none" stroke="#E53935" stroke-width="20" stroke-linecap="round"/>
+    <path d="M660 515H748" fill="none" stroke="#E53935" stroke-width="20" stroke-linecap="round"/>
+  </g>
+</svg>
