@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">타야돼 앱 아이콘 C — Bold Ta Clock</title>
+  <desc id="desc">굵어진 한글 타와 분명한 ㅏ 가로획, 뒤로 겹친 시계를 결합한 앱 아이콘</desc>
+  <rect width="1024" height="1024" rx="228" fill="#F7F0E8"/>
+
+  <g id="Clock Detail">
+    <circle cx="724" cy="556" r="178" fill="none" stroke="#123F5C" stroke-width="46"/>
+  </g>
+
+  <g id="Letter Structure" fill="#123F5C">
+    <rect x="258" y="354" width="76" height="422" rx="38"/>
+    <rect x="258" y="510" width="286" height="76" rx="38"/>
+    <rect x="258" y="700" width="330" height="76" rx="38"/>
+    <rect x="650" y="174" width="76" height="670" rx="38"/>
+    <rect x="688" y="365" width="176" height="76" rx="38"/>
+  </g>
+
+  <g id="Subway Detail">
+    <path d="M176 356C176 303 219 260 272 260H570C600 260 624 284 624 314V356C624 386 600 410 570 410H202C188 410 176 398 176 384Z" fill="#123F5C"/>
+    <path d="M199 343C207 313 233 291 265 291H286V343Z" fill="#F7F0E8"/>
+    <rect x="306" y="291" width="54" height="52" rx="10" fill="#F7F0E8"/>
+    <rect x="376" y="291" width="54" height="52" rx="10" fill="#F7F0E8"/>
+    <rect x="446" y="291" width="54" height="52" rx="10" fill="#F7F0E8"/>
+    <rect x="516" y="291" width="54" height="52" rx="10" fill="#F7F0E8"/>
+    <rect x="588" y="291" width="18" height="52" rx="8" fill="#F7F0E8"/>
+  </g>
+
+  <g id="Accent">
+    <rect x="226" y="369" width="378" height="11" rx="5.5" fill="#E53935"/>
+    <circle cx="199" cy="374" r="12" fill="#FFB13B"/>
+    <circle cx="755" cy="556" r="19" fill="#E53935"/>
+    <path d="M755 556V442" fill="none" stroke="#E53935" stroke-width="21" stroke-linecap="round"/>
+    <path d="M755 556L832 605" fill="none" stroke="#E53935" stroke-width="21" stroke-linecap="round"/>
+  </g>
+</svg>
