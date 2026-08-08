@@ -1,16 +1,17 @@
-# 타야돼 앱 아이콘 후보 A/B
+# 타야돼 앱 아이콘 후보 A/B/C
 
-`타` 한 글자의 획에 지하철과 시계를 결합한 앱 아이콘 후보입니다. 60px 축소 상태까지 검증한 편집 가능한 SVG이며, C안은 비교 대상에서 제외했습니다.
+`타` 한 글자의 획에 지하철과 시계를 결합한 앱 아이콘 후보입니다. 모두 1024×1024 편집 가능한 SVG입니다.
 
-| A — Train Silhouette | B — Subway Map |
-| --- | --- |
-| ![A — Train Silhouette](./icon-a-train-silhouette.svg) | ![B — Subway Map](./icon-b-subway-map.svg) |
-| 지하철과 시계가 가장 즉각적으로 보이는 안 | 가장 단순하고 작은 크기에서 강한 안 |
+| A — Train Silhouette | B — Subway Map | C — Bold Ta Clock |
+| --- | --- | --- |
+| ![A — Train Silhouette](./icon-a-train-silhouette.svg) | ![B — Subway Map](./icon-b-subway-map.svg) | ![C — Bold Ta Clock](./icon-c-bold-ta-clock.svg) |
+| 지하철과 시계가 가장 즉각적으로 보이는 안 | 가장 단순하고 작은 크기에서 강한 안 | 굵어진 획과 분명한 `ㅏ`로 글자 인식을 강화한 안 |
 
 ## 선택 가이드
 
 - A: 서비스가 지하철 앱이라는 점을 첫눈에 전달하는 것이 우선일 때
 - B: 홈 화면의 작은 아이콘과 향후 브랜드 확장성이 우선일 때
+- C: 첫인상에서 `타`가 정확하게 읽히는 것과 앱 아이콘의 힘 있는 인상이 우선일 때
 
 ## 공통 규격
 
@@ -27,4 +28,4 @@
 - [Figma 편집 파일](https://www.figma.com/design/2h9TRoNUf195jYjH706fIa)
 - [A SVG](./icon-a-train-silhouette.svg)
 - [B SVG](./icon-b-subway-map.svg)
-
+- [C SVG](./icon-c-bold-ta-clock.svg)
